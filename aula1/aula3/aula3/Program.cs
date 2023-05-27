@@ -3,10 +3,10 @@
    // consigo usar o using ????
     public class Maps
     {
-       // A classe Map deverá armazenar as informações do mapa 2D e implementar métodos para adição e remoção de joias e obstáculos. 
-       //Além de um método para imprimir o mapa na tela. A impressão do mapa deverá seguir a seguinte regra: 
-       //Robo será impresso como ME; Joias Red, como JR; Joias Green, como JG; Joias Blue, como JB; Obstáculos do tipo Tree, como $$; 
-       //Obstáculos do tipo Water, como ##; Espaços vazios, como --.
+       /// A classe Map deverá armazenar as informações do mapa 2D e implementar métodos para adição e remoção de joias e obstáculos. 
+       /// Além de um método para imprimir o mapa na tela. A impressão do mapa deverá seguir a seguinte regra: 
+       /// Robo será impresso como ME; Joias Red, como JR; Joias Green, como JG; Joias Blue, como JB; Obstáculos do tipo Tree, como $$; 
+       /// Obstáculos do tipo Water, como ##; Espaços vazios, como --.
        public static int xyz = 3; //o public e static estao aqui para permitir que a class JewelCollector a veja
     }
 
